@@ -1,11 +1,11 @@
-const buttons = document.querySelectorAll('.button');
+const buttons = document.querySelectorAll('.btn');
 // console.log(buttons);
 const body = document.querySelector('body');
 
 buttons.forEach((button) => {
     button.addEventListener('click', (e)=>{
-        console.log(e);
-        console.log(e.target);
+        // console.log(e);
+        // console.log(e.target);
         if(e.target.id==='red'){
             body.style.backgroundColor = e.target.id;
         } else if(e.target.id==='green'){

@@ -1,3 +1,41 @@
+body{
+    margin: 0px;
+    padding: 20px 100px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+
+}
+
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+.btn{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#color-switcher{
+    text-align: right;
+    
+}
+
+
+
 #red {
     background-color: red;
 }
@@ -14,22 +52,3 @@
     background-color: yellow;
 }
 
-h1{
-   padding-bottom: 50px;
-}
-
-h2{
-    padding-top: 50px;
-}
-.button {
-    height: 100px;
-    width: 100px;
-    border: solid black 2px;
-    display: inline-block;
-}
-
-.container {
-    margin: 200px 100px;
-    width: 80%;
-    text-align: center;
-  }
