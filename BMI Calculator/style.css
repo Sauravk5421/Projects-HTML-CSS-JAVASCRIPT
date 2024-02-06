@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(197, 198, 199);
+    padding: 20px;
+}
+
+.row {
+    justify-content: center;
+    text-align: center;
+}
+
+label{
+    font-size: 20px;
+    color: rgb(23, 43, 33);
+}
+.btn {
+    font-weight: bold;
+    margin: 20px 0px;
+    /* color: rgb(46, 129, 46); */
+}
+
+h1{
+    padding: 15px;
+}
+
+h3{
+   padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#results{
+    border-radius: 5px;;
+    padding: 10px;;
+    font-size: 20px;
+    font-weight: bold;
+}
