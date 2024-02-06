@@ -1,0 +1,35 @@
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+h1{
+   padding-bottom: 50px;
+}
+
+h2{
+    padding-top: 50px;
+}
+.button {
+    height: 100px;
+    width: 100px;
+    border: solid black 2px;
+    display: inline-block;
+}
+
+.container {
+    margin: 200px 100px;
+    width: 80%;
+    text-align: center;
+  }
